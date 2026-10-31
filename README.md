@@ -1,32 +1,56 @@
-# Hi, I'm Sajjad Ali Jatoi 👋
+# 💫 Sajjad Ali Jatoi | Data Analyst & Tech Finance Student 
 
-I am a data-driven business professional who bridges the gap between technical data analytics and corporate strategy. I combine an academic foundation in Economics and Finance with technical expertise in Data Science to solve complex corporate operational problems.
+<p align="left">
+  <img src="https://shields.io" alt="SQL">
+  <img src="https://shields.io" alt="Python">
+  <img src="https://shields.io" alt="Power BI">
+  <img src="https://shields.io" alt="Excel">
+</p>
 
----
-
-### 📈 About Me
-- 🎓 **Education:** Pursuing a BS in Economics and Finance at the University of Sindh.
-- ⚡ **Technical Certification:** Professional Data Science & Analytics Certification from Mehran University (MUET) under the People's IT Program.
-- 💼 **Professional Background:** 3+ years of rapid corporate promotion history at EFU Life Assurance Ltd, scaling from a frontline Consultant to Team Head and Assistant Branch Manager.
-- 🎯 **Career Goal:** Delivering high-impact business insights and automation pipelines for global remote organizations.
-
----
-
-### 🛠️ Technical Arsenal
-- **Databases & Querying:** SQL (PostgreSQL, MySQL)
-- **Programming & Analysis:** Python (Pandas, NumPy, Matplotlib, Seaborn)
-- **Business Intelligence:** Power BI Dashboard Design, Advanced Excel
-- **Domain Expertise:** Financial Modeling, Revenue Operations, Sales Tracking, Performance Auditing
+Passionate about transforming raw sales and financial data into automated pipelines, executive dashboards, and strategic business solutions. 
 
 ---
 
-### 📂 Portfolio Projects
-*(SQL, Python, and Power BI operational pipelines will be linked here as they are deployed)*
-- 🛠️ **Project 1:** [Coming Soon - Advanced SQL Corporate Analytics Pipeline]
-- 🛠️ **Project 2:** [Coming Soon - Interactive Power BI Financial Performance Tracker]
+## 👨‍💼 About Me
+
+- 🎓 **Academic Path:** Pursuing a BS in Economics and Finance at the **University of Sindh**, specialized in financial logic and market metrics.
+- ⚡ **Technical Foundation:** Professional Data Science & Analytics Certification from **Mehran University (MUET)** under the People's IT Program.
+- 💼 **Corporate Track Record:** 3+ years of progressive leadership at **EFU Life Assurance Ltd**, scaling from frontline Consultant to Team Head and Assistant Branch Manager.
+- 🎯 **Objective:** Engineering end-to-end data retrieval, cleaning, and tracking workflows for global remote companies.
 
 ---
 
-### 🤝 Connect With Me
-- 💼 **LinkedIn:** https://www.linkedin.com/in/sajjad-ali-jatoi-957402448
-- 📧 **Email:** sajjadjatoi.data@gmail.com
+## 💻 Tech Stack & Tools
+
+### 🗄️ Database Management & Querying
+![PostgreSQL](https://shields.io) ![MySQL](https://shields.io) ![SQL](https://shields.io)
+
+### 🐍 Programming & Data Science
+![Python](https://shields.io) ![Pandas](https://shields.io) ![NumPy](https://shields.io)
+
+### 📊 Business Intelligence & Spreadsheets
+![Power BI](https://shields.io) ![Excel](https://shields.io)
+
+---
+
+## 📊 Analytics Portfolio Run
+
+### 🛠️ SQL Engineering Pipelines
+- 📂 **Project 1:** [Advanced Corporate Revenue Performance Audit] *(Coming Soon)*
+- 📂 **Project 2:** [Global Multi-Table Operational Join & Analytics Tracking] *(Coming Soon)*
+
+### 📈 Power BI Executive Dashboards
+- 📂 **Project 3:** [Interactive Financial Distribution & KPI Dashboard] *(Coming Soon)*
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn">
+  </a>
+  <a href="mailto:sajjadjatoi.data@gmail.com">
+    <img src="https://shields.io" alt="Email">
+  </a>
+</p>
