@@ -1,4 +1,4 @@
-# 💫 Sajjad Ali Jatoi | Data Analyst & Tech Finance Student 
+# 💫 Sajjad Ali Jatoi | Data Analyst & Tech Finance Student
 
 <p align="left">
   <img src="https://shields.io" alt="SQL">
@@ -7,7 +7,7 @@
   <img src="https://shields.io" alt="Excel">
 </p>
 
-Passionate about transforming raw sales and financial data into automated pipelines, executive dashboards, and strategic business solutions. 
+Passionate about transforming raw sales and financial data into automated pipelines, executive dashboards, and strategic business solutions.
 
 ---
 
@@ -23,13 +23,13 @@ Passionate about transforming raw sales and financial data into automated pipeli
 ## 💻 Tech Stack & Tools
 
 ### 🗄️ Database Management & Querying
-![PostgreSQL](https://shields.io) ![MySQL](https://shields.io) ![SQL](https://shields.io)
+- **Systems:** PostgreSQL, MySQL, SQL Queries
 
 ### 🐍 Programming & Data Science
-![Python](https://shields.io) ![Pandas](https://shields.io) ![NumPy](https://shields.io)
+- **Languages & Libraries:** Python, Pandas, NumPy
 
 ### 📊 Business Intelligence & Spreadsheets
-![Power BI](https://shields.io) ![Excel](https://shields.io)
+- **Platforms:** Power BI, Microsoft Excel
 
 ---
 
@@ -49,8 +49,5 @@ Passionate about transforming raw sales and financial data into automated pipeli
 <p align="left">
   <a href="https://linkedin.com" target="_blank">
     <img src="https://shields.io" alt="LinkedIn">
-  </a>
-  <a href="mailto:sajjadjatoi.data@gmail.com">
-    <img src="https://shields.io" alt="Email">
   </a>
 </p>
